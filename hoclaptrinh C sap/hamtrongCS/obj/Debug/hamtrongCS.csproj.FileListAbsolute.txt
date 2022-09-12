@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\obj\Debug\hamtrongCS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\obj\Debug\hamtrongCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\obj\Debug\hamtrongCS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\bin\Debug\hamtrongCS.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\bin\Debug\hamtrongCS.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\bin\Debug\hamtrongCS.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\obj\Debug\hamtrongCS.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\hamtrongCS\obj\Debug\hamtrongCS.pdb

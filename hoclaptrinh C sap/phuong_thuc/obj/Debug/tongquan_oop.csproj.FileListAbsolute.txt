@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\bin\Debug\phuong_thuc.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\bin\Debug\phuong_thuc.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\bin\Debug\phuong_thuc.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\obj\Debug\tongquan_oop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\obj\Debug\tongquan_oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\obj\Debug\tongquan_oop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\obj\Debug\phuong_thuc.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\phuong_thuc\obj\Debug\phuong_thuc.pdb

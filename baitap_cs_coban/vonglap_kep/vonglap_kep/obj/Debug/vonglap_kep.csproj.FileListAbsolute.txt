@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\bin\Debug\vonglap_kep.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\bin\Debug\vonglap_kep.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\bin\Debug\vonglap_kep.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\obj\Debug\vonglap_kep.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\obj\Debug\vonglap_kep.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\obj\Debug\vonglap_kep.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\obj\Debug\vonglap_kep.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\vonglap_kep\obj\Debug\vonglap_kep.pdb

@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\bin\Debug\cautruc_struct.cs.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\bin\Debug\cautruc_struct.cs.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\bin\Debug\cautruc_struct.cs.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\obj\Debug\cautruc_struct.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\obj\Debug\cautruc_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\obj\Debug\cautruc_struct.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\obj\Debug\cautruc_struct.cs.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitapmang\cautruc_struct.cs\obj\Debug\cautruc_struct.cs.pdb

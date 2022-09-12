@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\bin\Debug\Da_Hinh.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\bin\Debug\Da_Hinh.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\bin\Debug\Da_Hinh.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\obj\Debug\Da_Hinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\obj\Debug\Da_Hinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\obj\Debug\Da_Hinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\obj\Debug\Da_Hinh.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\Da_Hinh\obj\Debug\Da_Hinh.pdb

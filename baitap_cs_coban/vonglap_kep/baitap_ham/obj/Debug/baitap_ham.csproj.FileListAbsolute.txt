@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\bin\Debug\baitap_ham.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\bin\Debug\baitap_ham.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\bin\Debug\baitap_ham.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\obj\Debug\baitap_ham.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\obj\Debug\baitap_ham.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\obj\Debug\baitap_ham.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\obj\Debug\baitap_ham.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\baitap_ham\obj\Debug\baitap_ham.pdb

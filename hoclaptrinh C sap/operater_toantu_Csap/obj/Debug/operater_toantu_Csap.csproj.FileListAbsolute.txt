@@ -1,0 +1,16 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\bin\Debug\operater_toantu_Csap.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\operater_toantu_Csap\obj\Debug\operater_toantu_Csap.pdb

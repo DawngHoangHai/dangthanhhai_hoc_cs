@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\bin\Debug\vonglap_for.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\bin\Debug\vonglap_for.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\bin\Debug\vonglap_for.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\obj\Debug\vonglap_for.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\obj\Debug\vonglap_for.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\obj\Debug\vonglap_for.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\obj\Debug\vonglap_for.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\hoclaptrinh C sap\vonglap_for\obj\Debug\vonglap_for.pdb

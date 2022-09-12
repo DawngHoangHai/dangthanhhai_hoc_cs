@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\bin\Debug\DonKeThua.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\bin\Debug\DonKeThua.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\bin\Debug\DonKeThua.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\obj\Debug\DonKeThua.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\obj\Debug\DonKeThua.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\obj\Debug\DonKeThua.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\obj\Debug\DonKeThua.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DonKeThua\obj\Debug\DonKeThua.pdb

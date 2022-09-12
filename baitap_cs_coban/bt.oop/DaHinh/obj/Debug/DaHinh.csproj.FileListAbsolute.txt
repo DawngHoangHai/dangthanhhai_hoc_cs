@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\bin\Debug\DaHinh.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\bin\Debug\DaHinh.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\bin\Debug\DaHinh.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\obj\Debug\DaHinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\obj\Debug\DaHinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\obj\Debug\DaHinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\obj\Debug\DaHinh.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\DaHinh\obj\Debug\DaHinh.pdb

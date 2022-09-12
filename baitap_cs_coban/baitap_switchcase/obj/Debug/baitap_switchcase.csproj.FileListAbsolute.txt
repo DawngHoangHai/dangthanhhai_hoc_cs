@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\bin\Debug\baitap_switchcase.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\bin\Debug\baitap_switchcase.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\bin\Debug\baitap_switchcase.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\obj\Debug\baitap_switchcase.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\obj\Debug\baitap_switchcase.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\obj\Debug\baitap_switchcase.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\obj\Debug\baitap_switchcase.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_switchcase\obj\Debug\baitap_switchcase.pdb

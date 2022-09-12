@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap_if_esle", "baitap_if_esle.csproj", "{42E1CAA6-21B3-4B44-87B2-FB921BA5428C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vonglap_don", "..\vonglap_don\vonglap_don.csproj", "{AB048ADA-AA10-40C0-AE8E-BEB1FF96530E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E1CAA6-21B3-4B44-87B2-FB921BA5428C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E1CAA6-21B3-4B44-87B2-FB921BA5428C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E1CAA6-21B3-4B44-87B2-FB921BA5428C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E1CAA6-21B3-4B44-87B2-FB921BA5428C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB048ADA-AA10-40C0-AE8E-BEB1FF96530E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB048ADA-AA10-40C0-AE8E-BEB1FF96530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB048ADA-AA10-40C0-AE8E-BEB1FF96530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB048ADA-AA10-40C0-AE8E-BEB1FF96530E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1579138-C432-4895-B37D-3ABC0D2EC7DF}
+	EndGlobalSection
+EndGlobal

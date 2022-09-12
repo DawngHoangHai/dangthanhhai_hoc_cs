@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\bin\Debug\Mang_motchieu.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\bin\Debug\Mang_motchieu.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\bin\Debug\Mang_motchieu.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\obj\Debug\Mang_motchieu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\obj\Debug\Mang_motchieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\obj\Debug\Mang_motchieu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\obj\Debug\Mang_motchieu.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\vonglap_kep\Mang_motchieu\obj\Debug\Mang_motchieu.pdb

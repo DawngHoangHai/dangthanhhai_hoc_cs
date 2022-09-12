@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\obj\Debug\bt.oop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\obj\Debug\bt.oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\obj\Debug\bt.oop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\bin\Debug\bt.oop.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\bin\Debug\bt.oop.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\bin\Debug\bt.oop.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\obj\Debug\bt.oop.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\bt.oop\bt.oop\obj\Debug\bt.oop.pdb

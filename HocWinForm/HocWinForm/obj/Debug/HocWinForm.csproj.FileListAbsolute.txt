@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\bin\Debug\HocWinForm.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\bin\Debug\HocWinForm.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\bin\Debug\HocWinForm.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\HocWinForm\HocWinForm\obj\Debug\HocWinForm.BaiTapWinform.resources
