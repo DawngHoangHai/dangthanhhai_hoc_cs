@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\bin\Debug\onTapCShap.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\bin\Debug\onTapCShap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\bin\Debug\onTapCShap.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\Code Snippets\C#\WinFormThayTan\onTapCShap\obj\Debug\onTapCShap.pdb

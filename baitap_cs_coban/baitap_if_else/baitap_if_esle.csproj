@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>baitap_cs_coban</RootNamespace>
     <AssemblyName>baitap_cs_coban</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,11 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="tinhthue.cs" />
+    <None Include="tinhthue.cs" />
     <None Include="tinhdienmuc.cs" />
     <None Include="tinhnamnhuan.cs" />
     <None Include="kiemtra_tamgiac.cs" />
-    <None Include="baitap_tinhdiem.cs" />
+    <Compile Include="baitap_tinhdiem.cs" />
     <None Include="phuongtrinh_b2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="tinhtamgiac.cs" />

@@ -1,0 +1,52 @@
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\bin\Debug\anttc.exe.config
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\bin\Debug\anttc.exe
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\bin\Debug\anttc.pdb
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\ECB.csprojResolveAssemblyReference.cache
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\Ma_Hill.hill.resources
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\Ma_Hill.Properties.Resources.resources
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\ECB.csproj.GenerateResource.Cache
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\anttc.exe
+C:\Users\manht\OneDrive\Desktop\ECB\Ma_Hill\obj\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\bin\Debug\anttc.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\bin\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\bin\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\ECB.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\Ma_Hill.hill.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\Ma_Hill.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\ECB.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB\Ma_Hill\obj\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\bin\Debug\anttc.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\bin\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\bin\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\ECB.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\Ma_Hill.hill.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\Ma_Hill.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\ECB.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Copy\Ma_Hill\obj\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\bin\Debug\anttc.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\bin\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\bin\Debug\anttc.pdb
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\ECB.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\Ma_Hill.hill.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\Ma_Hill.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\ECB.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\anttc.exe
+E:\Laptrinh\Nam4\TT-ATTT\ECB - Hill\Ma_Hill\obj\Debug\anttc.pdb
+C:\Users\HuyToan\Desktop\LeThiThu_Nhom2_ECB - Hill\ECB - Hill\Ma_Hill\bin\Debug\anttc.exe.config
+C:\Users\HuyToan\Desktop\LeThiThu_Nhom2_ECB - Hill\ECB - Hill\Ma_Hill\obj\Debug\anttc.exe
+C:\Users\HuyToan\Desktop\LeThiThu_Nhom2_ECB - Hill\ECB - Hill\Ma_Hill\obj\Debug\anttc.pdb
+F:\C# Năm Cuối\TT An Toàn Thông Tin\HồCôngToàn_TTATTT\Mã ECB - Hill\Ma_Hill\bin\Debug\anttc.exe.config
+F:\C# Năm Cuối\TT An Toàn Thông Tin\HồCôngToàn_TTATTT\Mã ECB - Hill\Ma_Hill\obj\Debug\anttc.exe
+F:\C# Năm Cuối\TT An Toàn Thông Tin\HồCôngToàn_TTATTT\Mã ECB - Hill\Ma_Hill\obj\Debug\anttc.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\bin\Debug\anttc.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\bin\Debug\anttc.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\bin\Debug\anttc.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\ECB.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\Ma_Hill.hill.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\Ma_Hill.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\ECB.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\ECB.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\anttc.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\Mã Hóa ECB\Mã ECB - Hill\Ma_Hill\obj\Debug\anttc.pdb

@@ -6,3 +6,10 @@ C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_c
 C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_cs_coban\obj\Debug\baitap_if_esle.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_cs_coban\obj\Debug\baitap_cs_coban.exe
 C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\baitap_cs_coban\baitap_cs_coban\obj\Debug\baitap_cs_coban.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\bin\Debug\baitap_cs_coban.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\bin\Debug\baitap_cs_coban.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\bin\Debug\baitap_cs_coban.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\obj\Debug\baitap_if_esle.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\obj\Debug\baitap_if_esle.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\obj\Debug\baitap_cs_coban.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2017\C#\baitap_cs_coban\baitap_if_else\obj\Debug\baitap_cs_coban.pdb

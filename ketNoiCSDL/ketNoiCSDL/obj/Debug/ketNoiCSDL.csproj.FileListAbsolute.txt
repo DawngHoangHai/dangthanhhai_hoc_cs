@@ -1,0 +1,13 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\bin\Debug\ketNoiCSDL.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\bin\Debug\ketNoiCSDL.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\bin\Debug\ketNoiCSDL.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.UseName.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\ketNoiCSDL\ketNoiCSDL\obj\Debug\ketNoiCSDL.xebuyts.resources

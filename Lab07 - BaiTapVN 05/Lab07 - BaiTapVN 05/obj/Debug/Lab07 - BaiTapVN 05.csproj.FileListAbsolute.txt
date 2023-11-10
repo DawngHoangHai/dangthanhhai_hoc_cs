@@ -1,0 +1,18 @@
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.exe.config
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.exe
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.pdb
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07___BaiTapVN_05.Form1.resources
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07___BaiTapVN_05.Properties.Resources.resources
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.csproj.GenerateResource.Cache
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.exe
+E:\C#\Thực tập lập trình .Net\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\bin\Debug\Lab07 - BaiTapVN 05.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07___BaiTapVN_05.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07___BaiTapVN_05.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\C#\Lab07 - BaiTapVN 05\Lab07 - BaiTapVN 05\obj\Debug\Lab07 - BaiTapVN 05.pdb
